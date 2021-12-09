@@ -6,7 +6,7 @@ const DISHES = [
         category: 'meal',
         label: 'hot',
         price: '199',
-        discription: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi quisquam itaque doloribus, sunt repellat inventore, deserunt, consectetur nisi iure expedita cumque? Voluptatum incidunt obcaecati beatae modi sint voluptates repellendus illo?',
+        description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi quisquam itaque doloribus, sunt repellat inventore, deserunt, consectetur nisi iure expedita cumque? Voluptatum incidunt obcaecati beatae modi sint voluptates repellendus illo?',
         comments: [
             {
                 id: 0,
@@ -38,7 +38,7 @@ const DISHES = [
         category: 'meal',
         label: 'worm',
         price: '120',
-        discription: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi quisquam itaque doloribus, sunt repellat inventore, deserunt, consectetur nisi iure expedita cumque? Voluptatum incidunt obcaecati beatae modi sint voluptates repellendus illo?',
+        description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi quisquam itaque doloribus, sunt repellat inventore, deserunt, consectetur nisi iure expedita cumque? Voluptatum incidunt obcaecati beatae modi sint voluptates repellendus illo?',
         comments: [
             {
                 id: 0,
@@ -70,7 +70,7 @@ const DISHES = [
         category: 'meal',
         label: 'cool',
         price: '120',
-        discription: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi quisquam itaque doloribus, sunt repellat inventore, deserunt, consectetur nisi iure expedita cumque? Voluptatum incidunt obcaecati beatae modi sint voluptates repellendus illo?',
+        description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi quisquam itaque doloribus, sunt repellat inventore, deserunt, consectetur nisi iure expedita cumque? Voluptatum incidunt obcaecati beatae modi sint voluptates repellendus illo?',
         comments: [
             {
                 id: 0,

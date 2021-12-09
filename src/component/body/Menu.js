@@ -15,9 +15,7 @@ class Menu extends Component {
         return (
             <div className="container-fluid">
                 <div className="row">
-                    <div className="col-md-6">
-                        {menu}
-                    </div>
+                    {menu}
                 </div>
             </div>
         );
